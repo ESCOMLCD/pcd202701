@@ -44,30 +44,36 @@ Las prácticas se realizan en parejas sobre un dataset sintético único por equ
 ## Estructura del repositorio
 
 ```
-PCD/
-├── content/
-│   ├── documents/        # Planeación y documentos para alumnos
-│   ├── plan/             # Planeación didáctica del profesor
-│   └── README.md         # Este archivo
-├── evaluation/
-│   ├── code/
-│   │   ├── datasets/     # Datasets sintéticos generados por pareja
-│   │   ├── labs/         # Especificación detallada de cada práctica (P1-P6)
-│   │   ├── generador_datasets.py
-│   │   ├── generar_todos.py
-│   │   └── asignaciones_parejas.md
-│   ├── plan/             # Planeación didáctica detallada
-│   ├── presentationsOriginal/
-│   │   ├── week01/       # Terminal, VS Code, entornos virtuales
-│   │   ├── week02/       # Git y GitHub
-│   │   ├── week03/       # Python I (notebook)
-│   │   ├── week04/       # Python II (notebook)
-│   │   └── week05-14/    # Semanas restantes
-│   └── questions/        # Preguntas gancho por semana
-└── exams/                # Exámenes
+content/
+├── README.md             # Este archivo
+├── documents/
+│   └── PlaneacionPCDAlumnos.md   # Planeación completa del curso
+├── labs/
+│   ├── P1_setup_reconocimiento.md
+│   ├── P2_procesamiento_python.md
+│   ├── P3_estadistica_numpy.md
+│   ├── P4_exploracion_pandas_regex.md
+│   ├── P5_limpieza_datos.md
+│   └── P6_eda_matplotlib.md
+└── presentations/
+    ├── week01/           # Terminal, VS Code, entornos virtuales
+    ├── week02/           # Git y GitHub
+    ├── week03/           # Python I: fundamentos y estructuras de datos
+    ├── week04/           # Python II: funciones y manejo de archivos
+    ├── week05/           # Python III: clases y programación funcional
+    ├── week06/           # NumPy I: fundamentos
+    ├── week07/           # NumPy II: estadística y filtrado
+    ├── week08/           # Regex
+    ├── week09/           # Pandas I: exploración y filtrado
+    ├── week10/           # Pandas II: limpieza y transformación
+    ├── week11/           # EDA y estadística descriptiva
+    ├── week12/           # Matplotlib
+    ├── week13/           # Seaborn
+    └── week14/           # Comunicar hallazgos y taller de proyecto
 ```
 
 ## Contacto
 
 **Profesor:** Mario Augusto Ramírez
+
 **GitHub:** [augustoramirez](https://github.com/augustoramirez)
