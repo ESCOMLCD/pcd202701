@@ -1,8 +1,11 @@
 # Programación para Ciencia de Datos — Planeación del Curso
 
 **Periodo:** martes 25 de agosto — viernes 11 de diciembre de 2026
+
 **Horario:** martes, miércoles y viernes, 90 minutos por sesión
+
 **Duración:** 16 semanas (48 sesiones)
+
 **Día no laboral:** miércoles 16 de septiembre (se repone en otra fecha)
 
 ---
@@ -188,6 +191,7 @@ P1 (leer CSV crudo) → P2 (organizar con Python puro) → P3 (estadística con 
 ### Práctica 1 — Setup del proyecto + primer reconocimiento del dataset
 
 **Asignada:** vie 18-sep · **Entrega:** vie 25-sep
+
 **Temas:** Terminal, VS Code, Entornos virtuales, Git, GitHub, Python I-II
 
 Configurar el monorepo del curso, leer el CSV con Python puro (sin librerías) y generar un resumen del dataset. Especificación completa en el documento de la práctica.
@@ -197,6 +201,7 @@ Configurar el monorepo del curso, leer el CSV con Python puro (sin librerías) y
 ### Práctica 2 — Procesamiento de datos con Python puro
 
 **Asignada:** mar 29-sep · **Entrega:** vie 9-oct
+
 **Temas:** Funciones, programación funcional (`lambda`, `map`, `filter`), clases (opcional)
 
 Organizar y procesar el dataset usando funciones reutilizables y programación funcional, sin librerías externas. Salida en JSON. Especificación completa en el documento de la práctica.
@@ -206,6 +211,7 @@ Organizar y procesar el dataset usando funciones reutilizables y programación f
 ### Práctica 3 — Estadística descriptiva con NumPy
 
 **Asignada:** mar 13-oct · **Entrega:** vie 23-oct
+
 **Temas:** NumPy (arrays, vectorización, máscaras booleanas, benchmarking)
 
 Repetir el análisis de P2 con NumPy, agregar detección de outliers y medir velocidad NumPy vs bucle puro. Especificación completa en el documento de la práctica.
@@ -215,6 +221,7 @@ Repetir el análisis de P2 con NumPy, agregar detección de outliers y medir vel
 ### Práctica 4 — Exploración y validación con pandas + regex
 
 **Asignada:** mar 27-oct · **Entrega:** vie 6-nov
+
 **Temas:** Pandas I y II (lectura, filtrado, groupby, limpieza), Regex (validación con `.str`)
 
 Exploración seria del dataset con pandas: agrupación, validación de emails y teléfonos con regex, diagnóstico de calidad de datos. Especificación completa en el documento de la práctica.
@@ -224,6 +231,7 @@ Exploración seria del dataset con pandas: agrupación, validación de emails y 
 ### Práctica 5 — Limpieza integral del dataset
 
 **Asignada:** mar 10-nov · **Entrega:** vie 20-nov
+
 **Temas:** Pandas (limpieza, transformación), Regex (corrección de formatos)
 
 Limpiar el dataset de forma integral: corregir formatos, estandarizar categórica, tratar faltantes, eliminar duplicados y outliers. Producir `{tema}-limpio.csv`. Especificación completa en el documento de la práctica.
@@ -233,6 +241,7 @@ Limpiar el dataset de forma integral: corregir formatos, estandarizar categóric
 ### Práctica 6 — Análisis exploratorio y visualización con Matplotlib
 
 **Asignada:** mar 24-nov · **Entrega:** vie 4-dic
+
 **Temas:** EDA, estadística descriptiva, Matplotlib
 
 Análisis exploratorio completo del dataset limpio: estadísticas, outliers con IQR, correlaciones, tendencias temporales, y 4 gráficas con Matplotlib. Especificación completa en el documento de la práctica.
