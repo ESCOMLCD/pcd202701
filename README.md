@@ -1,9 +1,13 @@
 # Programación para Ciencia de Datos
 
 **Instituto Politécnico Nacional**
+
 **Periodo:** agosto — diciembre 2026
+
 **Modalidad:** presencial
+
 **Duración:** 16 semanas (48 sesiones de 90 minutos)
+
 **Horario:** martes, miércoles y viernes
 
 ---
