@@ -17,19 +17,19 @@
 | 1 | Terminal + VS Code + Entornos virtuales | 25, 26, 28-ago | Formación de parejas (vie 28) |
 | 2 | Git + GitHub (intensivo) | 1, 2, 4-sep | Parejas formadas (vie 4) · Elección de tema de prácticas (vie 4) |
 | 3 | Python I: fundamentos y estructuras de datos | 8, 9, 11-sep | |
-| 4 | Python II: funciones y manejo de archivos | 15, ~~16 (feriado)~~, 18-sep | **Se asigna P1** (vie 18) |
-| 5 | Python III: clases y programación funcional | 22, 23, 25-sep | **Entrega P1** (vie 25) |
-| 6 | NumPy I: fundamentos | 29, 30-sep, 2-oct | **Se asigna P2** (mar 29) · **Examen 1** (vie 2) |
-| 7 | NumPy II: estadística y filtrado | 6, 7, 9-oct | **Entrega P2** (vie 9) |
-| 8 | Regex ligera | 13, 14, 16-oct | **Se asigna P3** (mar 13) |
-| 9 | Pandas I: exploración y filtrado | 20, 21, 23-oct | **Entrega P3** (vie 23) |
-| 10 | Pandas II: limpieza y transformación | 27, 28, 30-oct | **Se asigna P4** (mar 27) |
-| 11 | EDA y estadística descriptiva | 3, 4, 6-nov | **Entrega P4** (vie 6) · **Examen 2** (vie 6) |
-| 12 | Matplotlib | 10, 11, 13-nov | **Se asigna P5** (mar 10) · Formación de equipos de proyecto (mar 10) · Elección de dataset del proyecto (vie 13) |
-| 13 | Seaborn | 17, 18, 20-nov | **Entrega P5** (vie 20) |
-| 14 | Comunicar hallazgos + taller de proyecto | 24, 25, 27-nov | **Se asigna P6** (mar 24) |
-| 15 | Presentaciones | 1, 2, 4-dic | **Entrega P6** (vie 4) |
-| 16 | Presentaciones | 8, 9, 11-dic | |
+| 4 | Python II: funciones y manejo de archivos | 15, ~~16 (feriado)~~, 18-sep | |
+| 5 | Python III: clases y programación funcional | 22, 23, 25-sep | **Se asigna P1** (mié 23) |
+| 6 | NumPy I: fundamentos | 29, 30-sep, 2-oct | **Entrega P1** (vie 2) |
+| 7 | NumPy II: estadística y filtrado | 6, 7, 9-oct | **Se asigna P2** (mar 6) · **Examen 1** (vie 9) |
+| 8 | Regex ligera | 13, 14, 16-oct | **Entrega P2** (vie 16) · **Se asigna P3** (vie 16) |
+| 9 | Pandas I: exploración y filtrado | 20, 21, 23-oct | |
+| 10 | Pandas II: limpieza y transformación | 27, 28, 30-oct | **Entrega P3** (vie 30) |
+| 11 | EDA y estadística descriptiva | 3, 4, 6-nov | **Se asigna P4** (mar 3) |
+| 12 | Matplotlib | 10, 11, 13-nov | **Entrega P4** (vie 13) · Formación de equipos de proyecto (mar 10) · Elección de dataset del proyecto (vie 13) |
+| 13 | Seaborn | 17, 18, 20-nov | **Se asigna P5** (mar 17) |
+| 14 | Comunicar hallazgos + taller de proyecto | 24, 25, 27-nov | **Examen 2** (vie 27) |
+| 15 | Presentaciones | 1, 2, 4-dic | **Entrega P5** (mar 1) · **Se asigna P6** (mar 1) |
+| 16 | Presentaciones | 8, 9, 11-dic | **Entrega P6** (vie 11) |
 
 ---
 
@@ -169,12 +169,12 @@ pcd-{tema}-{seed}/
 
 | Práctica | Asignada | Entrega | Temas cubiertos |
 |---|---|---|---|
-| **P1** | vie 18-sep (semana 4) | vie 25-sep (semana 5) | Terminal + Entornos virtuales + Git + Python I-II |
-| **P2** | mar 29-sep (semana 6) | vie 9-oct (semana 7) | Python III (funciones, lambda, map, filter) |
-| **P3** | mar 13-oct (semana 8) | vie 23-oct (semana 9) | NumPy I y II |
-| **P4** | mar 27-oct (semana 10) | vie 6-nov (semana 11) | Pandas I y II + Regex |
-| **P5** | mar 10-nov (semana 12) | vie 20-nov (semana 13) | Limpieza de datos (pandas + regex) |
-| **P6** | mar 24-nov (semana 14) | vie 4-dic (semana 15) | EDA + estadística descriptiva + Matplotlib |
+| **P1** | mié 23-sep (semana 5) | vie 2-oct (semana 6) | Terminal + Entornos virtuales + Git + Python I-II |
+| **P2** | mar 6-oct (semana 7) | vie 16-oct (semana 8) | Python III (funciones, lambda, map, filter) |
+| **P3** | vie 16-oct (semana 8) | vie 30-oct (semana 10) | NumPy I y II |
+| **P4** | mar 3-nov (semana 11) | vie 13-nov (semana 12) | Pandas I y II + Regex |
+| **P5** | mar 17-nov (semana 13) | mar 1-dic (semana 15) | Limpieza de datos (pandas + regex) |
+| **P6** | mar 1-dic (semana 15) | vie 11-dic (semana 16) | EDA + estadística descriptiva + Matplotlib |
 
 ### Pipeline de las prácticas
 
@@ -190,7 +190,7 @@ P1 (leer CSV crudo) → P2 (organizar con Python puro) → P3 (estadística con 
 
 ### Práctica 1 — Setup del proyecto + primer reconocimiento del dataset
 
-**Asignada:** vie 18-sep · **Entrega:** vie 25-sep
+**Asignada:** mié 23-sep · **Entrega:** vie 2-oct
 
 **Temas:** Terminal, VS Code, Entornos virtuales, Git, GitHub, Python I-II
 
@@ -200,7 +200,7 @@ Configurar el monorepo del curso, leer el CSV con Python puro (sin librerías) y
 
 ### Práctica 2 — Procesamiento de datos con Python puro
 
-**Asignada:** mar 29-sep · **Entrega:** vie 9-oct
+**Asignada:** mar 6-oct · **Entrega:** vie 16-oct
 
 **Temas:** Funciones, programación funcional (`lambda`, `map`, `filter`), clases (opcional)
 
@@ -210,7 +210,7 @@ Organizar y procesar el dataset usando funciones reutilizables y programación f
 
 ### Práctica 3 — Estadística descriptiva con NumPy
 
-**Asignada:** mar 13-oct · **Entrega:** vie 23-oct
+**Asignada:** vie 16-oct · **Entrega:** vie 30-oct
 
 **Temas:** NumPy (arrays, vectorización, máscaras booleanas, benchmarking)
 
@@ -220,7 +220,7 @@ Repetir el análisis de P2 con NumPy, agregar detección de outliers y medir vel
 
 ### Práctica 4 — Exploración y validación con pandas + regex
 
-**Asignada:** mar 27-oct · **Entrega:** vie 6-nov
+**Asignada:** mar 3-nov · **Entrega:** vie 13-nov
 
 **Temas:** Pandas I y II (lectura, filtrado, groupby, limpieza), Regex (validación con `.str`)
 
@@ -230,7 +230,7 @@ Exploración seria del dataset con pandas: agrupación, validación de emails y 
 
 ### Práctica 5 — Limpieza integral del dataset
 
-**Asignada:** mar 10-nov · **Entrega:** vie 20-nov
+**Asignada:** mar 17-nov · **Entrega:** mar 1-dic
 
 **Temas:** Pandas (limpieza, transformación), Regex (corrección de formatos)
 
@@ -240,7 +240,7 @@ Limpiar el dataset de forma integral: corregir formatos, estandarizar categóric
 
 ### Práctica 6 — Análisis exploratorio y visualización con Matplotlib
 
-**Asignada:** mar 24-nov · **Entrega:** vie 4-dic
+**Asignada:** mar 1-dic · **Entrega:** vie 11-dic
 
 **Temas:** EDA, estadística descriptiva, Matplotlib
 
@@ -252,8 +252,8 @@ Análisis exploratorio completo del dataset limpio: estadísticas, outliers con 
 
 | Examen | Fecha | Temas | Formato |
 |---|---|---|---|
-| **Examen 1** | vie 2-oct (semana 6) | Terminal, Entornos virtuales, Git/GitHub, Python I, II y III | Mitad teoría corta, mitad lectura/depuración de código |
-| **Examen 2** | vie 6-nov (semana 11) | NumPy I y II, Regex, Pandas I y II | Dataset nuevo (no visto), preguntas de negocio a responder con código |
+| **Examen 1** | vie 9-oct (semana 7) | Terminal, Entornos virtuales, Git/GitHub, Python I, II y III | Mitad teoría corta, mitad lectura/depuración de código |
+| **Examen 2** | vie 27-nov (semana 14) | NumPy I y II, Regex, Pandas I y II | Dataset nuevo (no visto), preguntas de negocio a responder con código |
 
 Los exámenes son **presenciales** y sin herramientas externas (ver políticas).
 
@@ -400,12 +400,12 @@ Se evalúa a **todos los integrantes**: si solo uno puede responder las pregunta
 ### Semana 6 — NumPy I: fundamentos
 - **Sesión 1 (mar 29):** Arrays — creación, `shape`, `ndim`, `dtype`, indexación y slicing.
 - **Sesión 2 (mié 30):** Operaciones vectorizadas, broadcasting, funciones universales.
-- **Sesión 3 (vie 2):** **Examen 1.**
+- **Sesión 3 (vie 2):** Ejercicio integrador de NumPy I.
 
 ### Semana 7 — NumPy II: estadística y filtrado
 - **Sesión 1 (mar 6):** Estadística descriptiva vectorizada — `mean`, `std`, `min`, `max`, `median`, `percentile`.
 - **Sesión 2 (mié 7):** Máscaras booleanas, `np.where`, benchmarking NumPy vs bucle puro.
-- **Sesión 3 (vie 9):** Ejercicio integrador NumPy.
+- **Sesión 3 (vie 9):** **Examen 1.**
 
 ### Semana 8 — Regex ligera
 - **Sesión 1 (mar 13):** Sintaxis básica — metacaracteres, anclas, clases de caracteres.
@@ -425,7 +425,7 @@ Se evalúa a **todos los integrantes**: si solo uno puede responder las pregunta
 ### Semana 11 — EDA y estadística descriptiva
 - **Sesión 1 (mar 3):** Proceso de EDA — distribuciones, outliers (IQR, z-score), correlaciones.
 - **Sesión 2 (mié 4):** Práctica de EDA guiada — histogramas con pandas, formular hipótesis.
-- **Sesión 3 (vie 6):** **Examen 2.**
+- **Sesión 3 (vie 6):** Ejercicio integrador de EDA.
 
 ### Semana 12 — Matplotlib
 - **Sesión 1 (mar 10):** Anatomía de una figura — `figure`, `axes`, `subplots`; gráficas básicas.
@@ -440,7 +440,7 @@ Se evalúa a **todos los integrantes**: si solo uno puede responder las pregunta
 ### Semana 14 — Comunicar hallazgos + taller de proyecto
 - **Sesión 1 (mar 24):** Estructura de un reporte de datos — hallazgo + evidencia + limitaciones.
 - **Sesión 2 (mié 25):** Revisión del proyecto por equipo — retroalimentación del profesor.
-- **Sesión 3 (vie 27):** Ensayo de presentación; feedback de pares.
+- **Sesión 3 (vie 27):** **Examen 2.**
 
 ### Semanas 15-16 — Presentaciones
 - **Semana 15** (1, 2, 4-dic): Primera ronda de presentaciones.
