@@ -19,8 +19,8 @@
 | 3 | Python I: fundamentos y estructuras de datos | 8, 9, 11-sep | |
 | 4 | Python II: funciones y manejo de archivos | 15, ~~16 (feriado)~~, 18-sep | |
 | 5 | Python III: clases y programación funcional | 22, 23, 25-sep | **Se asigna P1** (mié 23) |
-| 6 | NumPy I: fundamentos | 29, 30-sep, 2-oct | **Entrega P1** (vie 2) |
-| 7 | NumPy II: estadística y filtrado | 6, 7, 9-oct | **Se asigna P2** (mar 6) · **Examen 1** (vie 9) |
+| 6 | NumPy I: fundamentos | 29, 30-sep, 2-oct | |
+| 7 | NumPy II: estadística y filtrado | 6, 7, 9-oct | **Entrega P1** (mar 6) · **Se asigna P2** (mar 6) · **Examen 1** (vie 9) |
 | 8 | Regex ligera | 13, 14, 16-oct | **Entrega P2** (vie 16) · **Se asigna P3** (vie 16) |
 | 9 | Pandas I: exploración y filtrado | 20, 21, 23-oct | |
 | 10 | Pandas II: limpieza y transformación | 27, 28, 30-oct | **Entrega P3** (vie 30) |
@@ -169,7 +169,7 @@ pcd-{tema}-{seed}/
 
 | Práctica | Asignada | Entrega | Temas cubiertos |
 |---|---|---|---|
-| **P1** | mié 23-sep (semana 5) | vie 2-oct (semana 6) | Terminal + Entornos virtuales + Git + Python I-II |
+| **P1** | mié 23-sep (semana 5) | mar 6-oct (semana 7) | Terminal + Entornos virtuales + Git + Python I-II |
 | **P2** | mar 6-oct (semana 7) | vie 16-oct (semana 8) | Python III (funciones, lambda, map, filter) |
 | **P3** | vie 16-oct (semana 8) | vie 30-oct (semana 10) | NumPy I y II |
 | **P4** | mar 3-nov (semana 11) | vie 13-nov (semana 12) | Pandas I y II + Regex |
@@ -190,7 +190,7 @@ P1 (leer CSV crudo) → P2 (organizar con Python puro) → P3 (estadística con 
 
 ### Práctica 1 — Setup del proyecto + primer reconocimiento del dataset
 
-**Asignada:** mié 23-sep · **Entrega:** vie 2-oct
+**Asignada:** mié 23-sep · **Entrega:** mar 6-oct
 
 **Temas:** Terminal, VS Code, Entornos virtuales, Git, GitHub, Python I-II
 
