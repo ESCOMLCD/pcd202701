@@ -1,0 +1,12 @@
+# Los notebooks pasan por un filtro que quita la metadata de ruido antes de
+# commitear (kernel, versión de Python, metadata de VS Code). Las salidas de
+# las celdas se conservan. Detalles en tools/nb_clean.py.
+#
+# El filtro vive en .git/config, que no se clona, así que en cada clon nuevo:
+#   git config filter.nbclean.clean "python tools/nb_clean.py"
+# Sin ese paso Git ignora el filtro y los notebooks se commitean tal cual.
+*.ipynb filter=nbclean
+
+# El filtro siempre escribe LF; mantener el archivo en LF para que el resultado
+# sea el mismo en cualquier máquina.
+*.ipynb text eol=lf

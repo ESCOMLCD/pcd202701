@@ -59,21 +59,23 @@ content/
 │   ├── P4_exploracion_pandas_regex.md
 │   ├── P5_limpieza_datos.md
 │   └── P6_eda_matplotlib.md
-└── presentations/
-    ├── week01/           # Terminal, VS Code, entornos virtuales
-    ├── week02/           # Git y GitHub
-    ├── week03/           # Python I: fundamentos y estructuras de datos
-    ├── week04/           # Python II: funciones y manejo de archivos
-    ├── week05/           # Python III: clases y programación funcional
-    ├── week06/           # NumPy I: fundamentos
-    ├── week07/           # NumPy II: estadística y filtrado
-    ├── week08/           # Regex
-    ├── week09/           # Pandas I: exploración y filtrado
-    ├── week10/           # Pandas II: limpieza y transformación
-    ├── week11/           # EDA y estadística descriptiva
-    ├── week12/           # Matplotlib
-    ├── week13/           # Seaborn
-    └── week14/           # Comunicar hallazgos y taller de proyecto
+├── presentations/
+│   ├── week01/           # Terminal, VS Code, entornos virtuales
+│   ├── week02/           # Git y GitHub
+│   ├── week03/           # Python I: fundamentos y estructuras de datos
+│   ├── week04/           # Python II: funciones y manejo de archivos
+│   ├── week05/           # Python III: clases y programación funcional
+│   ├── week06/           # NumPy I: fundamentos
+│   ├── week07/           # NumPy II: estadística y filtrado
+│   ├── week08/           # Regex
+│   ├── week09/           # Pandas I: exploración y filtrado
+│   ├── week10/           # Pandas II: limpieza y transformación
+│   ├── week11/           # EDA y estadística descriptiva
+│   ├── week12/           # Matplotlib
+│   ├── week13/           # Seaborn
+│   └── week14/           # Comunicar hallazgos y taller de proyecto
+└── tools/
+    └── nb_clean.py   # Filtro de Git: limpia la metadata de los notebooks
 ```
 
 ## Contacto
