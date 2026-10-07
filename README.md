@@ -54,24 +54,24 @@ Calificación de cada práctica sobre **100**. Actualizada al 7-oct-2026, 01:40 
 | Alergicos_al_10 | 95 | — | — | — | — | — |
 | Asterix | 60 | — | — | — | — | — |
 | Bit_and_Byte | 100 | — | — | — | — | — |
-| CVA_IXT | 96 | — | — | — | — | — |
+| CVA_IXT | 100 | — | — | — | — | — |
 | Hondurenos | 91 | — | — | — | — | — |
 | JR | 100 | — | — | — | — | — |
-| LUMINA | 78 | — | — | — | — | — |
+| LUMINA | 81 | — | — | — | — | — |
 | Mamba | 75 | — | — | — | — | — |
-| NPC | 96 | — | — | — | — | — |
-| Noble_6 | 96 | — | — | — | — | — |
+| NPC | 100 | — | — | — | — | — |
+| Noble_6 | 100 | — | — | — | — | — |
 | Orugas | 98 | — | — | — | — | — |
 | Pastes_Don_Miau | 66 | — | — | — | — | — |
 | Soviets | 100 | — | — | — | — | — |
 | Tifosis | 95 | — | — | — | — | — |
-| Yayos | 96 | — | — | — | — | — |
+| Yayos | 100 | — | — | — | — | — |
 | los_cazadores_de_bandides | 83 | — | — | — | — | — |
 | the_sea_bros | 68 | — | — | — | — | — |
 
 **Práctica 1** (entrega mar 6-oct): los 17 equipos entregaron dentro del plazo, así que
-ninguna calificación lleva penalización por retraso. Promedio del grupo: **87.8**.
-Máxima: 100. Mínima: 60.
+ninguna calificación lleva penalización por retraso. Promedio del grupo: **92.2**.
+Máxima: 100 (siete equipos). Mínima: 60.
 
 La calificación se asignó con esta rúbrica sobre 100: estructura del monorepo (8),
 nombres exactos de los entregables (10), requisitos de Git (10), Python puro (8),
