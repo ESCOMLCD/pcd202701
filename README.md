@@ -45,6 +45,45 @@ El curso se evalúa mediante 3 evaluaciones parciales con igual peso (33.3% cada
 
 Las prácticas se realizan en parejas sobre un dataset sintético único por equipo. El proyecto final se presenta en equipos de 3 integrantes usando datos reales elegidos por los alumnos.
 
+## Calificaciones de prácticas
+
+Calificación de cada práctica sobre **100**. Actualizada al 7-oct-2026, 01:40 h.
+
+| Equipo | P1 | P2 | P3 | P4 | P5 | P6 |
+|---|:---:|:---:|:---:|:---:|:---:|:---:|
+| Alergicos_al_10 | 95 | — | — | — | — | — |
+| Asterix | 60 | — | — | — | — | — |
+| Bit_and_Byte | 100 | — | — | — | — | — |
+| CVA_IXT | 96 | — | — | — | — | — |
+| Hondurenos | 91 | — | — | — | — | — |
+| JR | 100 | — | — | — | — | — |
+| LUMINA | 78 | — | — | — | — | — |
+| Mamba | 75 | — | — | — | — | — |
+| NPC | 96 | — | — | — | — | — |
+| Noble_6 | 96 | — | — | — | — | — |
+| Orugas | 98 | — | — | — | — | — |
+| Pastes_Don_Miau | 66 | — | — | — | — | — |
+| Soviets | 100 | — | — | — | — | — |
+| Tifosis | 95 | — | — | — | — | — |
+| Yayos | 96 | — | — | — | — | — |
+| los_cazadores_de_bandides | 83 | — | — | — | — | — |
+| the_sea_bros | 68 | — | — | — | — | — |
+
+**Práctica 1** (entrega mar 6-oct): los 17 equipos entregaron dentro del plazo, así que
+ninguna calificación lleva penalización por retraso. Promedio del grupo: **87.8**.
+Máxima: 100. Mínima: 60.
+
+La calificación se asignó con esta rúbrica sobre 100: estructura del monorepo (8),
+nombres exactos de los entregables (10), requisitos de Git (10), Python puro (8),
+formato del `resumen.txt` (9), encabezado con archivo/pareja/semilla (10), dimensiones
+(10), primeras 5 filas (5), columna categórica (12), columna numérica_1 (13) y calidad
+de datos (5). Las observaciones de cada equipo están en el `README.md` de su propio
+repositorio; el detalle de la revisión está en `documents/estado_repositorios.md`.
+
+> **Política de retraso** (del enunciado de cada práctica): −10 puntos sobre 100 por
+> cada día natural de retraso, hasta un máximo de 5 días; a partir del sexto día la
+> práctica vale 0. Una práctica no entregada cuenta como **0** hasta que se entregue.
+
 ## Estructura del repositorio
 
 ```
