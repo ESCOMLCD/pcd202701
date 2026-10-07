@@ -26,7 +26,7 @@ El curso está diseñado para estudiantes con bases de programación pero con po
 | 2 | Git y GitHub |
 | 3 | Python I: fundamentos y estructuras de datos |
 | 4 | Python II: funciones y manejo de archivos |
-| 5 | Python III: clases y programación funcional |
+| 5 | Python III: clases, programación funcional y JSON |
 | 6-7 | NumPy: fundamentos, estadística y filtrado |
 | 8 | Expresiones regulares (regex) |
 | 9-10 | Pandas: exploración, filtrado, limpieza y transformación |
@@ -64,7 +64,7 @@ content/
 │   ├── week02/           # Git y GitHub
 │   ├── week03/           # Python I: fundamentos y estructuras de datos
 │   ├── week04/           # Python II: funciones y manejo de archivos
-│   ├── week05/           # Python III: clases y programación funcional
+│   ├── week05/           # Python III: clases, programación funcional y JSON
 │   ├── week06/           # NumPy I: fundamentos
 │   ├── week07/           # NumPy II: estadística y filtrado
 │   ├── week08/           # Regex

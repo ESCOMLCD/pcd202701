@@ -18,7 +18,7 @@
 | 2 | Git + GitHub (intensivo) | 1, 2, 4-sep | Parejas formadas (vie 4) · Elección de tema de prácticas (vie 4) |
 | 3 | Python I: fundamentos y estructuras de datos | 8, 9, 11-sep | |
 | 4 | Python II: funciones y manejo de archivos | 15, ~~16 (feriado)~~, 18-sep | |
-| 5 | Python III: clases y programación funcional | 22, 23, 25-sep | **Se asigna P1** (mié 23) |
+| 5 | Python III: clases, programación funcional y JSON | 22, 23, 25-sep | **Se asigna P1** (mié 23) |
 | 6 | NumPy I: fundamentos | 29, 30-sep, 2-oct | |
 | 7 | NumPy II: estadística y filtrado | 6, 7, 9-oct | **Entrega P1** (mar 6) · **Se asigna P2** (mar 6) · **Examen 1** (vie 9) |
 | 8 | Regex ligera | 13, 14, 16-oct | **Entrega P2** (vie 16) · **Se asigna P3** (vie 16) |
@@ -170,7 +170,7 @@ pcd-{tema}-{seed}/
 | Práctica | Asignada | Entrega | Temas cubiertos |
 |---|---|---|---|
 | **P1** | mié 23-sep (semana 5) | mar 6-oct (semana 7) | Terminal + Entornos virtuales + Git + Python I-II |
-| **P2** | mar 6-oct (semana 7) | vie 16-oct (semana 8) | Python III (funciones, lambda, map, filter) |
+| **P2** | mar 6-oct (semana 7) | vie 16-oct (semana 8) | Python III (funciones, lambda, map, filter) + JSON |
 | **P3** | vie 16-oct (semana 8) | vie 30-oct (semana 10) | NumPy I y II |
 | **P4** | mar 3-nov (semana 11) | vie 13-nov (semana 12) | Pandas I y II + Regex |
 | **P5** | mar 17-nov (semana 13) | mar 1-dic (semana 15) | Limpieza de datos (pandas + regex) |
@@ -392,10 +392,10 @@ Se evalúa a **todos los integrantes**: si solo uno puede responder las pregunta
 - ~~**Sesión 2 (mié 16, feriado)**~~ — se repone.
 - **Sesión 3 (vie 18):** Lectura/escritura de archivos (`open`, `with`); parseo de CSV sin librerías.
 
-### Semana 5 — Python III: clases y programación funcional
+### Semana 5 — Python III: clases, programación funcional y JSON
 - **Sesión 1 (mar 22):** Clases y objetos — `class`, `__init__`, atributos, métodos, `self`.
 - **Sesión 2 (mié 23):** Programación funcional — `lambda`, `map()`, `filter()`, `reduce()`.
-- **Sesión 3 (vie 25):** Ejercicio integrador de Python.
+- **Sesión 3 (vie 25):** JSON — módulo `json`; `json.dump` y `json.load`; `indent=2`, `ensure_ascii=False`; tipos Python↔JSON (ojo: los `set` no se pueden guardar en JSON, hay que convertirlos a lista). Ejercicio integrador de Python.
 
 ### Semana 6 — NumPy I: fundamentos
 - **Sesión 1 (mar 29):** Arrays — creación, `shape`, `ndim`, `dtype`, indexación y slicing.
