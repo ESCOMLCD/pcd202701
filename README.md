@@ -47,7 +47,7 @@ Las prácticas se realizan en parejas sobre un dataset sintético único por equ
 
 ## Calificaciones de prácticas
 
-Calificación de cada práctica sobre **100**. Actualizada al 7-oct-2026, 01:40 h.
+Calificación de cada práctica sobre **100**. Actualizada al 8-oct-2026, 00:51 h.
 
 | Equipo | P1 | P2 | P3 | P4 | P5 | P6 |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -55,7 +55,7 @@ Calificación de cada práctica sobre **100**. Actualizada al 7-oct-2026, 01:40 
 | Asterix | 60 | — | — | — | — | — |
 | Bit_and_Byte | 100 | — | — | — | — | — |
 | CVA_IXT | 100 | — | — | — | — | — |
-| Hondurenos | 91 | — | — | — | — | — |
+| Hondurenos | 94 | — | — | — | — | — |
 | JR | 100 | — | — | — | — | — |
 | LUMINA | 81 | — | — | — | — | — |
 | Mamba | 75 | — | — | — | — | — |
@@ -70,8 +70,8 @@ Calificación de cada práctica sobre **100**. Actualizada al 7-oct-2026, 01:40 
 | the_sea_bros | 68 | — | — | — | — | — |
 
 **Práctica 1** (entrega mar 6-oct): los 17 equipos entregaron dentro del plazo, así que
-ninguna calificación lleva penalización por retraso. Promedio del grupo: **92.2**.
-Máxima: 100 (siete equipos). Mínima: 60.
+ninguna calificación lleva penalización por retraso. Promedio del grupo: **89.1**.
+Máxima: 100 (siete equipos). Mínima: 60. Mediana: 95.
 
 La calificación se asignó con esta rúbrica sobre 100: estructura del monorepo (8),
 nombres exactos de los entregables (10), requisitos de Git (10), Python puro (8),
