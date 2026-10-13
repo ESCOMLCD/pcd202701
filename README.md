@@ -47,31 +47,53 @@ Las prácticas se realizan en parejas sobre un dataset sintético único por equ
 
 ## Calificaciones de prácticas
 
-Calificación de cada práctica sobre **100**. Actualizada al 8-oct-2026, 00:51 h.
+Calificación de cada práctica sobre **100**. Actualizada al 13-oct-2026.
+
+Cuando una celda trae **dos números** (`anterior/vigente`), el primero es la calificación
+de la entrega original y el segundo es la que quedó después de que el equipo **corrigió
+las observaciones** que se le señalaron en el `README.md` de su repositorio. **La que
+cuenta es la segunda.** Se deja la primera a la vista para que quede registro de dónde
+salió cada equipo y de cuánto le valió corregir.
 
 | Equipo | P1 | P2 | P3 | P4 | P5 | P6 |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|
-| Alergicos_al_10 | 95 | — | — | — | — | — |
-| Asterix | 60 | — | — | — | — | — |
+| Alergicos_al_10 | 95/99 | — | — | — | — | — |
+| Asterix | 60/90 | — | — | — | — | — |
 | Bit_and_Byte | 100 | — | — | — | — | — |
 | CVA_IXT | 100 | — | — | — | — | — |
-| Hondurenos | 94 | — | — | — | — | — |
+| Hondurenos | 94/99 | — | — | — | — | — |
 | JR | 100 | — | — | — | — | — |
-| LUMINA | 81 | — | — | — | — | — |
-| Mamba | 75 | — | — | — | — | — |
+| LUMINA | 81/90 | — | — | — | — | — |
+| Mamba | 75/90 | — | — | — | — | — |
 | NPC | 100 | — | — | — | — | — |
 | Noble_6 | 100 | — | — | — | — | — |
-| Orugas | 98 | — | — | — | — | — |
-| Pastes_Don_Miau | 66 | — | — | — | — | — |
+| Orugas | 98/99 | — | — | — | — | — |
+| Pastes_Don_Miau | 66/90 | — | — | — | — | — |
 | Soviets | 100 | — | — | — | — | — |
 | Tifosis | 95 | — | — | — | — | — |
 | Yayos | 100 | — | — | — | — | — |
-| los_cazadores_de_bandides | 83 | — | — | — | — | — |
-| the_sea_bros | 68 | — | — | — | — | — |
+| los_cazadores_de_bandides | 83/90 | — | — | — | — | — |
+| the_sea_bros | 68/90 | — | — | — | — | — |
 
 **Práctica 1** (entrega mar 6-oct): los 17 equipos entregaron dentro del plazo, así que
-ninguna calificación lleva penalización por retraso. Promedio del grupo: **89.1**.
-Máxima: 100 (siete equipos). Mínima: 60. Mediana: 95.
+ninguna calificación lleva penalización por retraso. Con la ronda de correcciones ya
+aplicada, el promedio del grupo es **96.0** (era 89.1 con las calificaciones de la
+entrega original). Máxima: 100 (siete equipos). Mínima: 90. Mediana: 99.
+
+**Cómo se aplicó la ronda de correcciones.** Nueve de los diez equipos que tenían
+observaciones las atendieron y subieron sus correcciones entre el 8 y el 12 de octubre.
+A cada uno se le reconoció así:
+
+- Si su calificación original era de **90 o más**, su práctica quedó en **99**.
+- Si era **menor a 90**, quedó en **90**.
+- Los siete equipos que ya tenían **100** se quedan en 100: no tenían nada que corregir.
+- **Tifosis** conserva su **95** original. Su observación era el requisito de crear una
+  rama de trabajo y mergearla a `main`, y a la fecha de corte su repositorio seguía con
+  solo `main` y cero merges.
+
+Corregir no sube a nadie a 100: ese lugar se reserva para quien entregó bien la primera
+vez. Pero sí reconoce el trabajo de leer la retroalimentación y actuar sobre ella, que es
+lo que más va a servirles en las prácticas que siguen.
 
 La calificación se asignó con esta rúbrica sobre 100: estructura del monorepo (8),
 nombres exactos de los entregables (10), requisitos de Git (10), Python puro (8),
