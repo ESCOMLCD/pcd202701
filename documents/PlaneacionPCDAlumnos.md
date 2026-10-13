@@ -20,13 +20,13 @@
 | 4 | Python II: funciones y manejo de archivos | 15, ~~16 (feriado)~~, 18-sep | |
 | 5 | Python III: clases, programación funcional y JSON | 22, 23, 25-sep | **Se asigna P1** (mié 23) |
 | 6 | NumPy I: fundamentos | 29, 30-sep, 2-oct | |
-| 7 | NumPy II: estadística y filtrado | 6, 7, 9-oct | **Entrega P1** (mar 6) · **Se asigna P2** (mar 6) · **Examen 1** (vie 9) |
-| 8 | Regex ligera | 13, 14, 16-oct | **Entrega P2** (vie 16) · **Se asigna P3** (vie 16) |
-| 9 | Pandas I: exploración y filtrado | 20, 21, 23-oct | |
-| 10 | Pandas II: limpieza y transformación | 27, 28, 30-oct | **Entrega P3** (vie 30) |
-| 11 | EDA y estadística descriptiva | 3, 4, 6-nov | **Se asigna P4** (mar 3) |
-| 12 | Matplotlib | 10, 11, 13-nov | **Entrega P4** (vie 13) · Formación de equipos de proyecto (mar 10) · Elección de dataset del proyecto (vie 13) |
-| 13 | Seaborn | 17, 18, 20-nov | **Se asigna P5** (mar 17) |
+| 7 | NumPy II: estadística y filtrado | 6, 7, 9-oct | **Entrega P1** (mar 6) · **Examen 1** (vie 9) |
+| 8 | Regex ligera | 13, 14, 16-oct | **Se asigna P2** (mié 14) |
+| 9 | Pandas I: exploración y filtrado | 20, 21, 23-oct | **Entrega P2** (vie 23) |
+| 10 | Pandas II: limpieza y transformación | 27, 28, 30-oct | **Se asigna P3** (mar 27) |
+| 11 | EDA y estadística descriptiva | 3, 4, 6-nov | **Entrega P3** (vie 6) · **Se asigna P4** (vie 6) |
+| 12 | Matplotlib | 10, 11, 13-nov | Formación de equipos de proyecto (mar 10) · Elección de dataset del proyecto (vie 13) |
+| 13 | Seaborn | 17, 18, 20-nov | **Entrega P4** (mar 17) · **Se asigna P5** (mar 17) |
 | 14 | Comunicar hallazgos + taller de proyecto | 24, 25, 27-nov | **Examen 2** (vie 27) |
 | 15 | Presentaciones | 1, 2, 4-dic | **Entrega P5** (mar 1) · **Se asigna P6** (mar 1) |
 | 16 | Presentaciones | 8, 9, 11-dic | **Entrega P6** (vie 11) |
@@ -170,9 +170,9 @@ pcd-{tema}-{seed}/
 | Práctica | Asignada | Entrega | Temas cubiertos |
 |---|---|---|---|
 | **P1** | mié 23-sep (semana 5) | mar 6-oct (semana 7) | Terminal + Entornos virtuales + Git + Python I-II |
-| **P2** | mar 6-oct (semana 7) | vie 16-oct (semana 8) | Python III (funciones, lambda, map, filter) + JSON |
-| **P3** | vie 16-oct (semana 8) | vie 30-oct (semana 10) | NumPy I y II |
-| **P4** | mar 3-nov (semana 11) | vie 13-nov (semana 12) | Pandas I y II + Regex |
+| **P2** | mié 14-oct (semana 8) | vie 23-oct (semana 9) | Python III (funciones, lambda, map, filter) + JSON |
+| **P3** | mar 27-oct (semana 10) | vie 6-nov (semana 11) | NumPy I y II |
+| **P4** | vie 6-nov (semana 11) | mar 17-nov (semana 13) | Pandas I y II + Regex |
 | **P5** | mar 17-nov (semana 13) | mar 1-dic (semana 15) | Limpieza de datos (pandas + regex) |
 | **P6** | mar 1-dic (semana 15) | vie 11-dic (semana 16) | EDA + estadística descriptiva + Matplotlib |
 
@@ -200,7 +200,7 @@ Configurar el monorepo del curso, leer el CSV con Python puro (sin librerías) y
 
 ### Práctica 2 — Procesamiento de datos con Python puro
 
-**Asignada:** mar 6-oct · **Entrega:** vie 16-oct
+**Asignada:** mié 14-oct · **Entrega:** vie 23-oct
 
 **Temas:** Funciones, programación funcional (`lambda`, `map`, `filter`), clases (opcional)
 
@@ -210,7 +210,7 @@ Organizar y procesar el dataset usando funciones reutilizables y programación f
 
 ### Práctica 3 — Estadística descriptiva con NumPy
 
-**Asignada:** vie 16-oct · **Entrega:** vie 30-oct
+**Asignada:** mar 27-oct · **Entrega:** vie 6-nov
 
 **Temas:** NumPy (arrays, vectorización, máscaras booleanas, benchmarking)
 
@@ -220,7 +220,7 @@ Repetir el análisis de P2 con NumPy, agregar detección de outliers y medir vel
 
 ### Práctica 4 — Exploración y validación con pandas + regex
 
-**Asignada:** mar 3-nov · **Entrega:** vie 13-nov
+**Asignada:** vie 6-nov · **Entrega:** mar 17-nov
 
 **Temas:** Pandas I y II (lectura, filtrado, groupby, limpieza), Regex (validación con `.str`)
 
