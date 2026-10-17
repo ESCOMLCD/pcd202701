@@ -2,7 +2,7 @@
 
 **Programación para Ciencia de Datos**
 
-**Asignada:** mié 14-oct · **Entrega:** vie 23-oct
+**Asignada:** mié 14-oct · **Entrega:** lun 26-oct
 **Temas:** Funciones, programación funcional (`lambda`, `map`, `filter`), clases (opcional)
 
 ---
