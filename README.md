@@ -47,7 +47,7 @@ Las prácticas se realizan en parejas sobre un dataset sintético único por equ
 
 ## Calificaciones de prácticas
 
-Calificación de cada práctica sobre **100**. Actualizada al 27-oct-2026.
+Calificación de cada práctica sobre **100**. Actualizada al 2-nov-2026.
 
 Cuando una celda trae **dos números** (`anterior/vigente`), el primero es la calificación
 de la entrega original y el segundo es la que quedó después de que el equipo **corrigió
@@ -59,26 +59,44 @@ salió cada equipo y de cuánto le valió corregir.
 |---|:---:|:---:|:---:|:---:|:---:|:---:|
 | Alergicos_al_10 | 95/99 | 100 | — | — | — | — |
 | Asterix | 60/90 | 100 | — | — | — | — |
-| Bit_and_Byte | 100 | 97 | — | — | — | — |
-| CVA_IXT | 100 | 52 | — | — | — | — |
+| Bit_and_Byte | 100 | 97/99 | — | — | — | — |
+| CVA_IXT | 100 | 52/90 | — | — | — | — |
 | Hondurenos | 94/99 | 100 | — | — | — | — |
 | JR | 100 | 100 | — | — | — | — |
-| LUMINA | 81/90 | 90 | — | — | — | — |
-| Mamba | 75/90 | 74 | — | — | — | — |
+| LUMINA | 81/90 | 90/99 | — | — | — | — |
+| Mamba | 75/90 | 74/90 | — | — | — | — |
 | NPC | 100 | 100 | — | — | — | — |
 | Noble_6 | 100 | 100 | — | — | — | — |
 | Orugas | 98/99 | 100 | — | — | — | — |
-| Pastes_Don_Miau | 66/90 | 84 | — | — | — | — |
+| Pastes_Don_Miau | 66/90 | 84/90 | — | — | — | — |
 | Soviets | 100 | 100 | — | — | — | — |
 | Tifosis | 95 | 100 | — | — | — | — |
 | Yayos | 100 | 100 | — | — | — | — |
 | los_cazadores_de_bandides | 83/90 | 100 | — | — | — | — |
-| the_sea_bros | 68/90 | 85 | — | — | — | — |
+| the_sea_bros | 68/90 | 85/90 | — | — | — | — |
 
 **Práctica 2** (entrega lun 26-oct): los 17 equipos entregaron dentro del plazo —el
 commit más tardío en `practica2/` fue el de JR, el 26-oct a las 23:27— así que ninguna
-calificación lleva penalización por retraso. Promedio del grupo: **93.1**.
-Máxima: 100 (11 equipos). Mínima: 52. Mediana: 100.
+calificación lleva penalización por retraso. Con la ronda de correcciones ya aplicada,
+el promedio del grupo es **97.5** (era 93.1 con las calificaciones de la entrega
+original). Máxima: 100 (11 equipos). Mínima: 90. Mediana: 100.
+
+**Cómo se aplicó la ronda de correcciones.** Los **seis** equipos que tenían
+observaciones las atendieron, y subieron sus correcciones entre el 27 y el 28 de
+octubre. A cada uno se le reconoció con el mismo criterio de la P1:
+
+- Si su calificación original era de **90 o más**, su práctica quedó en **99**:
+  Bit_and_Byte y LUMINA.
+- Si era **menor a 90**, quedó en **90**: CVA_IXT, Mamba, Pastes_Don_Miau y
+  the_sea_bros.
+- Los 11 equipos que ya tenían **100** se quedan en 100: no tenían nada que corregir.
+
+Corregir no sube a nadie a 100: ese lugar se reserva para quien entregó bien la
+primera vez. A diferencia de la P1, esta vez **corrigieron todos** los equipos con
+observaciones —CVA_IXT en menos de nueve horas—, y los seis quedaron coincidiendo
+campo por campo con la solución de referencia en los doce criterios. Lo que más cuenta:
+los seis atacaron la causa raíz en el código —una línea en casi todos los casos— y no
+los números del JSON a mano, que era el punto del ejercicio.
 
 La calificación se asignó con esta rúbrica sobre 100: nombres exactos de los entregables
 (10), requisitos de Git (8), requisitos de código —5 funciones, `lambda`, `map`/`filter`,
@@ -98,8 +116,9 @@ the_sea_bros dividió el trabajo en dos clases propias. **Tifosis cumplió el re
 rama de trabajo** que traía pendiente desde P1: creó `feature/practica2` y la integró a
 `main`.
 
-**Los cinco errores que costaron puntos**, cada uno de un equipo distinto y todos de una
-sola causa:
+**Los cinco errores que costaron puntos** en la entrega original, cada uno de un
+equipo distinto y todos de una sola causa —los seis equipos afectados ya los
+corrigieron, ver la ronda de correcciones arriba:
 
 - **Bit_and_Byte (97)** — usó el **percentil 0.75** en vez del 0.90 en el filtrado. Es el
   valor que traía el notebook de la semana 5, copiado sin cambiar; el enunciado advertía
