@@ -47,7 +47,7 @@ Las prácticas se realizan en parejas sobre un dataset sintético único por equ
 
 ## Calificaciones de prácticas
 
-Calificación de cada práctica sobre **100**. Actualizada al 2-nov-2026.
+Calificación de cada práctica sobre **100**. Actualizada al 16-nov-2026.
 
 Cuando una celda trae **dos números** (`anterior/vigente`), el primero es la calificación
 de la entrega original y el segundo es la que quedó después de que el equipo **corrigió
@@ -57,23 +57,23 @@ salió cada equipo y de cuánto le valió corregir.
 
 | Equipo | P1 | P2 | P3 | P4 | P5 | P6 |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|
-| Alergicos_al_10 | 95/99 | 100 | — | — | — | — |
-| Asterix | 60/90 | 100 | — | — | — | — |
-| Bit_and_Byte | 100 | 97/99 | — | — | — | — |
-| CVA_IXT | 100 | 52/90 | — | — | — | — |
-| Hondurenos | 94/99 | 100 | — | — | — | — |
-| JR | 100 | 100 | — | — | — | — |
-| LUMINA | 81/90 | 90/99 | — | — | — | — |
-| Mamba | 75/90 | 74/90 | — | — | — | — |
-| NPC | 100 | 100 | — | — | — | — |
-| Noble_6 | 100 | 100 | — | — | — | — |
-| Orugas | 98/99 | 100 | — | — | — | — |
-| Pastes_Don_Miau | 66/90 | 84/90 | — | — | — | — |
-| Soviets | 100 | 100 | — | — | — | — |
-| Tifosis | 95 | 100 | — | — | — | — |
-| Yayos | 100 | 100 | — | — | — | — |
-| los_cazadores_de_bandides | 83/90 | 100 | — | — | — | — |
-| the_sea_bros | 68/90 | 85/90 | — | — | — | — |
+| Alergicos_al_10 | 95/99 | 100 | 100 | — | — | — |
+| Asterix | 60/90 | 100 | 98 | — | — | — |
+| Bit_and_Byte | 100 | 97/99 | 100 | — | — | — |
+| CVA_IXT | 100 | 52/90 | 100 | — | — | — |
+| Hondurenos | 94/99 | 100 | 100 | — | — | — |
+| JR | 100 | 100 | 100 | — | — | — |
+| LUMINA | 81/90 | 90/99 | 100 | — | — | — |
+| Mamba | 75/90 | 74/90 | 100 | — | — | — |
+| NPC | 100 | 100 | 100 | — | — | — |
+| Noble_6 | 100 | 100 | 100 | — | — | — |
+| Orugas | 98/99 | 100 | 100 | — | — | — |
+| Pastes_Don_Miau | 66/90 | 84/90 | 100 | — | — | — |
+| Soviets | 100 | 100 | 100 | — | — | — |
+| Tifosis | 95 | 100 | 100 | — | — | — |
+| Yayos | 100 | 100 | 99 | — | — | — |
+| los_cazadores_de_bandides | 83/90 | 100 | 100 | — | — | — |
+| the_sea_bros | 68/90 | 85/90 | 100 | — | — | — |
 
 **Práctica 2** (entrega lun 26-oct): los 17 equipos entregaron dentro del plazo —el
 commit más tardío en `practica2/` fue el de JR, el 26-oct a las 23:27— así que ninguna
